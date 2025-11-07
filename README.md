@@ -92,5 +92,5 @@ This project is released under the **APACHE LICENSE** — feel free to use, modi
 
 ## 💡 Author
 
-Developed by *[Sane Viola]* — inspired by the beauty of biomedical signals and clean visual design.
+Developed by *Sane Viola* — inspired by the beauty of biomedical signals and clean visual design.
 
