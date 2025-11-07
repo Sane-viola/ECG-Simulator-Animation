@@ -3,6 +3,9 @@
 A smooth, minimal **ECG (electrocardiogram) waveform animation** built in Python using `matplotlib`.
 This project generates a **slow, looping ECG GIF** ideal for use as a **website loader**, **medical animation**, or **UI element**.
 
+
+![ecg_loader](https://github.com/user-attachments/assets/b59a4224-c2ea-459a-88b7-79ca288f210b)
+
 ---
 
 ## 🎬 Preview
